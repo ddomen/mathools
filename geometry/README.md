@@ -9,7 +9,7 @@
 ## Contains
 * **Magnitude** `mag([Vector|arguments])` => ![mag](http://latex.codecogs.com/gif.latex?\sqrt{\sum_{Vector}^{v}v^{2}})
 
-* **Decibels** `mag2decibel(magnitude)` => [!mag2decibel](http://latex.codecogs.com/gif.latex?20&space;\cdot&space;log_{10}(magnitude))
+* **Decibels** `mag2decibel(magnitude)` => ![mag2decibel](http://latex.codecogs.com/gif.latex?20&space;\cdot&space;log_{10}(magnitude))
 
 * **Vector** `Vector([arguments]) extends Array`
 Vector class extends Array with some utils function for Vectors calcs. Function that are allowed only with Vectors takes `Vector|arguments` as parameter, and automatically convert Array, Vector or arguments Array to a usable Vector. Every function that doesnt return a value, return the Vector object. Every function has both static and instance scope, and can be called in two way: `Vector.function( myVector, arguments )` or `myVector.function( arguments )`.
