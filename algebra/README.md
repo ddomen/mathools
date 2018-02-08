@@ -7,19 +7,19 @@
 [@mathools](https://github.com/ddomen/mathools) algebra module for simple calcs
 
 ## Contains
-* **Logarithm** `log(argument, base)` => ![log](https://latex.codecogs.com/gif.latex?\log&space;_{base}&space;(argument))
+* **Logarithm** `log(argument, base)` => ![log]( https://latex.codecogs.com/gif.latex?\log&space;_{base}&space;(argument) )
 
-* **Root** `root(argument, radix)` => [!root](https://latex.codecogs.com/gif.latex?\sqrt[radix]{argument})
+* **Root** `root(argument, radix)` => [!root]( https://latex.codecogs.com/gif.latex?\sqrt[radix]{argument} )
 
-* **Between** `between(argument, min, max)` => [!between](https://latex.codecogs.com/gif.latex?\left\{\begin{matrix}&space;argument,&space;min&space;<&space;argument&space;<&space;max&space;\\&space;min,&space;argument&space;>=&space;min&space;\\&space;max,&space;argument&space;<=&space;max&space;\end{matrix}\right.)
+* **Between** `between(argument, min, max)` => [!between]( https://latex.codecogs.com/gif.latex?\left\{\begin{matrix}&space;argument,&space;min&space;<&space;argument&space;<&space;max&space;\\&space;min,&space;argument&space;>=&space;min&space;\\&space;max,&space;argument&space;<=&space;max&space;\end{matrix}\right. )
 
-* **Max** `max([...args])` => [!max](https://latex.codecogs.com/gif.latex?max\{arguments\})
+* **Max** `max([...args])` => [!max]( https://latex.codecogs.com/gif.latex?max\{arguments\} )
 
-* **Min** `min([...args])` => [!max](https://latex.codecogs.com/gif.latex?min\{arguments\})
+* **Min** `min([...args])` => [!max]( https://latex.codecogs.com/gif.latex?min\{arguments\} )
 
-* **Sum** `sum([...args])` => [!max](https://latex.codecogs.com/gif.latex?\sum \{arguments\})
+* **Sum** `sum([...args])` => [!max]( https://latex.codecogs.com/gif.latex?\sum \{arguments\} )
 
-* **Prod** `prod([...args])` => [!max](https://latex.codecogs.com/gif.latex?\prod \{arguments\})
+* **Prod** `prod([...args])` => [!max]( https://latex.codecogs.com/gif.latex?\prod \{arguments\} )
 
 *Max, Min, Sum and Prod arguments can be Arrays and matrix too*
 
