@@ -10,21 +10,21 @@ Some very usefulls math tools
 
 ## Contains
 
-* **[Algebra](https://github.com/ddomen/mathools/algebra)** => module for simple calcs
+* **[Algebra](https://github.com/ddomen/mathools/tree/master/algebra)** => module for simple calcs
 
-* **[Analisys](https://github.com/ddomen/mathools/analisys)** => module for analisys functions
+* **[Analisys](https://github.com/ddomen/mathools/tree/master/analisys)** => module for analisys functions
 
-* **[Functions](https://github.com/ddomen/mathools/functions)** => a library of functions module
+* **[Functions](https://github.com/ddomen/mathools/tree/master/functions)** => a library of functions module
 
-* **[Geometry](https://github.com/ddomen/mathools/geometry)** => module for vectors calcs
+* **[Geometry](https://github.com/ddomen/mathools/tree/master/geometry)** => module for vectors calcs
 
-* **[Round](https://github.com/ddomen/mathools/round)** => module for approximations calcs
+* **[Round](https://github.com/ddomen/mathools/tree/master/round)** => module for approximations calcs
 
-* **[Statistic](https://github.com/ddomen/mathools/statistic)** => module for statistic calcs
+* **[Statistic](https://github.com/ddomen/mathools/tree/master/statistic)** => module for statistic calcs
 
-* **[Trigonometry](https://github.com/ddomen/mathools/trigonometry)** => module for trigonometry calcs
+* **[Trigonometry](https://github.com/ddomen/mathools/tree/master/trigonometry)** => module for trigonometry calcs
 
-* **[Waves](https://github.com/ddomen/mathools/waves)** => a library of waves module
+* **[Waves](https://github.com/ddomen/mathools/tree/master/waves)** => a library of waves module
 
 
 ## Contacts
