@@ -8,11 +8,12 @@
 
 ## Contains
 * **Derivate (Rn)** `derivate(function, [direction='x',] precision=5)` => ![log](http://latex.codecogs.com/gif.latex?(function(x&space;&plus;&space;direction\cdot0.1^{precision}&space;)&space;-&space;function(x))/(0.1^{precision}))
+
 `direction` can be an Array or 'x','y','z' strings;
 
-* **Derivate (R1)** `derivateR1(function, precision=5)` => [!root](http://latex.codecogs.com/gif.latex?(function(x&space;&plus;&space;0.1^{precision}&space;)&space;-&space;function(x))/(0.1^{precision}))
+* **Derivate (R1)** `derivateR1(function, precision=5)` => ![root](http://latex.codecogs.com/gif.latex?(function(x&space;&plus;&space;0.1^{precision}&space;)&space;-&space;function(x))/(0.1^{precision}))
 
-* **Fourier** `fourier(real, imaginary, scale)` => [!between](http://latex.codecogs.com/gif.latex?function(x)&space;\begin{Bmatrix}&space;\\&space;\frac{real[0]&space;\cdot&space;scale}{2}&space;\cdot&space;\sum_{real[1:length]}^{r}&space;scale&space;\cdot&space;real[r]&space;\cdot&space;cos(r&space;\cdot&space;x)&space;\\&space;&plus;&space;\sum_{imaginary[0:length]}^{i}&space;scale&space;\cdot&space;imaginary[i]&space;\cdot&space;sin(i&space;\cdot&space;x)\}&space;\end{Bmatrix})
+* **Fourier** `fourier(real, imaginary, scale)` => compute a Fourier Series: `function(x){return real[0]/2 * sum[i](real[i] * cos(i*x)) + sum[i](imaginary[i] * sin(i*x))}`
 
 ## Contacts
 If you like the project feel free to contact me on my [![Email](https://img.shields.io/badge/Contact-email-00897b.svg)](mailto:daniele.domenichelli.5+ddomen@gmail.com).
