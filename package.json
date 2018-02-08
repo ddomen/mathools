@@ -1,0 +1,33 @@
+{
+  "name": "@mathools",
+  "version": "1.0.0",
+  "description": "some very usefull math tools",
+  "main": "mathools.js",
+  "scripts": {},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddomen/mathools.git"
+  },
+  "keywords": [
+    "math",
+    "derivate",
+    "round",
+    "wave"
+  ],
+  "author": "Daniele Domenichelli <daniele.domenichelli.5@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddomen/mathools/issues"
+  },
+  "homepage": "https://github.com/ddomen/mathools#readme",
+  "dependencies": {
+    "@mathools/algebra": "^1.0.0",
+    "@mathools/analisys": "^1.0.0",
+    "@mathools/functions": "^1.0.0",
+    "@mathools/geometry": "^1.0.0",
+    "@mathools/statistic": "^1.0.0",
+    "@mathools/trigonometry": "^1.0.0",
+    "@mathools/waves": "^1.0.0"
+  }
+}

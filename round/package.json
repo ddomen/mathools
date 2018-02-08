@@ -1,0 +1,24 @@
+{
+  "name": "@mathools/round",
+  "version": "1.0.0",
+  "description": "some very usefull math tools",
+  "main": "round.js",
+  "scripts": {},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddomen/mathools.git"
+  },
+  "keywords": [
+    "math",
+    "derivate",
+    "round",
+    "wave"
+  ],
+  "author": "ddomen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddomen/mathools/issues"
+  },
+  "homepage": "https://github.com/ddomen/mathools#readme"
+}

@@ -1,0 +1,11 @@
+Object.assign(
+  module.exports,
+  require('./algebra/algebra'),
+  require('./analisys/analisys'),
+  require('./functions/functions'),
+  require('./geometry/geometry'),
+  require('./round/round'),
+  require('./statistic/statistic'),
+  require('./trigonometry/trigonometry'),
+  require('./waves/waves')
+)
