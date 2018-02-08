@@ -8,6 +8,28 @@
 
 Some very usefulls math tools
 
+### Installing
+For install library is easy to install by cloning the repo.
+You can install trhought npm too:
+Local installation
+```
+npm install @mathools/all
+```
+Global installation
+```
+npm install -g @mathools/all
+```
+
+It is possible to install just one module at once
+```
+npm install @mathools/module
+```
+
+for example
+```
+npm install @mathools/algebra
+```
+
 ## Contains
 
 * **[Algebra](https://github.com/ddomen/mathools/tree/master/algebra)** => module for simple calcs

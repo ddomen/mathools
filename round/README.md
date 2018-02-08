@@ -6,6 +6,18 @@
 
 [@mathools](https://github.com/ddomen/mathools) round module for approximations calcs
 
+### Installing
+For install library is easy to install by cloning the repo.
+You can install trhought npm too:
+Local installation
+```
+npm install @mathools/round
+```
+Global installation
+```
+npm install -g @mathools/round
+```
+
 ## Contains
 * **Round** `round(number, decimals=0, pass=10)` => the `number` rounded at `pass` with `decimals` approximation
 

@@ -6,6 +6,22 @@
 
 [@mathools](https://github.com/ddomen/mathools) algebra module for simple calcs
 
+**Mathools library**
+
+Some very usefulls math tools
+
+### Installing
+For install library is easy to install by cloning the repo.
+You can install trhought npm too:
+Local installation
+```
+npm install @mathools/algebra
+```
+Global installation
+```
+npm install -g @mathools/algebra
+```
+
 ## Contains
 * **Logarithm** `log(argument, base)` => ![log]( https://latex.codecogs.com/gif.latex?\log&space;_{base}&space;(argument) )
 

@@ -6,6 +6,18 @@
 
 [@mathools](https://github.com/ddomen/mathools) functions library module
 
+### Installing
+For install library is easy to install by cloning the repo.
+You can install trhought npm too:
+Local installation
+```
+npm install @mathools/functions
+```
+Global installation
+```
+npm install -g @mathools/functions
+```
+
 ## Contains
 
 ## Contacts

@@ -6,6 +6,18 @@
 
 [@mathools](https://github.com/ddomen/mathools) waves module, a library of waves functions
 
+### Installing
+For install library is easy to install by cloning the repo.
+You can install trhought npm too:
+Local installation
+```
+npm install @mathools/waves
+```
+Global installation
+```
+npm install -g @mathools/waves
+```
+
 ## Contains
 * **Parametric** `parametric(number, isDegree)` => constrain a `number` to stay between `0` and `360` ( or `0` and `2π`)
 

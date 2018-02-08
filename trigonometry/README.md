@@ -6,6 +6,18 @@
 
 [@mathools](https://github.com/ddomen/mathools) trigonometry module
 
+### Installing
+For install library is easy to install by cloning the repo.
+You can install trhought npm too:
+Local installation
+```
+npm install @mathools/trigonometry
+```
+Global installation
+```
+npm install -g @mathools/trigonometry
+```
+
 ## Contains
 * **Tanh** `tanh(x)` => ![tanh](http://latex.codecogs.com/gif.latex?\tanh&space;(x))
 * **Degree** `deg(x)` => ![deg](http://latex.codecogs.com/gif.latex?\frac{x&space;\cdot&space;180}{\pi})

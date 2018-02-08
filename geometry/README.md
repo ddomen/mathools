@@ -6,6 +6,18 @@
 
 [@mathools](https://github.com/ddomen/mathools) geometry module for vector calcs
 
+### Installing
+For install library is easy to install by cloning the repo.
+You can install trhought npm too:
+Local installation
+```
+npm install @mathools/geometry
+```
+Global installation
+```
+npm install -g @mathools/geometry
+```
+
 ## Contains
 * **Magnitude** `mag([Vector|arguments])` => ![mag](http://latex.codecogs.com/gif.latex?\sqrt{\sum_{Vector}^{v}v^{2}})
 

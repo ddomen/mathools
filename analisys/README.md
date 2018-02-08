@@ -6,6 +6,18 @@
 
 [@mathools](https://github.com/ddomen/mathools) analisys module for analisys functions
 
+### Installing
+For install library is easy to install by cloning the repo.
+You can install trhought npm too:
+Local installation
+```
+npm install @mathools/analisys
+```
+Global installation
+```
+npm install -g @mathools/analisys
+```
+
 ## Contains
 * **Derivate (Rn)** `derivate(function, [direction='x',] precision=5)` => ![log](http://latex.codecogs.com/gif.latex?(function(x&space;&plus;&space;direction\cdot0.1^{precision}&space;)&space;-&space;function(x))/(0.1^{precision}))
 

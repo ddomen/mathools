@@ -6,6 +6,18 @@
 
 [@mathools](https://github.com/ddomen/mathools) module for statistic calcs
 
+### Installing
+For install library is easy to install by cloning the repo.
+You can install trhought npm too:
+Local installation
+```
+npm install @mathools/statistic
+```
+Global installation
+```
+npm install -g @mathools/statistic
+```
+
 ## Contains
 * **Random** `random(max, min=0, digits=10)` => good approximation of random number generator, generates a number from `min` to `max`, with `digits` digits ( better than Math.round )
 
