@@ -1,10 +1,9 @@
 {
   "name": "@mathools/geometry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "some very usefull math tools",
   "main": "round.js",
   "scripts": {},
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ddomen/mathools.git"

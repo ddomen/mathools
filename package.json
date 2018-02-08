@@ -1,5 +1,5 @@
 {
-  "name": "@mathools/",
+  "name": "@mathools/all",
   "version": "1.0.0",
   "description": "some very usefull math tools",
   "main": "mathools.js",
